@@ -1,3 +1,8 @@
+'''
+Important Message: Although best efforts are being made to come away from copying of code.
+This is completely a non-profit exercise and used for only knowledge sharing purposes. 
+'''
+
 import threading
 import inspect
 def print_cube(num):
